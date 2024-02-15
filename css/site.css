@@ -1,0 +1,37 @@
+h1 {
+  font-size: 72px;
+  line-height: 1.5;
+  color: #6c5b7b; /* Tonalidad pastel - morado */
+  font-weight: 100;
+}
+
+#container {
+  width: 980px;
+  margin: 0 auto;
+}
+
+section {
+  height: 300px;
+  margin: 60px 0;
+  clip-path: inset(50% 0%, 0% 50%, 20% 60%, 0% 100%, 50% 80%, 100% 100%, 80% 60%, 100% 20%, 50% 0%);
+}
+
+.section--purple {
+  background-color: #f8bbd0; /* Tonalidad pastel - rosa */
+}
+
+.section--blue {
+  background-color: #90caf9; /* Tonalidad pastel - azul */
+}
+
+.section--green {
+  background-color: #c5e1a5; /* Tonalidad pastel - verde */
+}
+
+#main {
+  text-align: center;
+}
+
+#moar {
+  margin: 20px auto 48px;
+}
